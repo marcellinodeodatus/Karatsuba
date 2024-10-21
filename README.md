@@ -24,9 +24,9 @@ For two numbers \( X \) and \( Y \):
 This reduces the complexity to approximately \( O(n^{1.585}) \), compared to the \( O(n^2) \) of traditional methods.
 
 ## Example
-BigInteger num1 = new BigInteger("1234567890123456789012345678901234567890");
-BigInteger num2 = new BigInteger("9876543210987654321098765432109876543210");
-Result: 121932631137021795226185032733622923332237463801111263526900
+- BigInteger num1 = new BigInteger("1234567890123456789012345678901234567890");
+- BigInteger num2 = new BigInteger("9876543210987654321098765432109876543210");
+- Result: 121932631137021795226185032733622923332237463801111263526900
 
 ## How it Works
 **Splitting**: The large numbers are split into two parts (high and low bits).
