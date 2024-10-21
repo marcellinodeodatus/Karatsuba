@@ -1,6 +1,6 @@
 # Karatsuba Multiplication Algorithm in Java
 
-This Java project implements the **Karatsuba algorithm**, an efficient method for multiplying large integers. The algorithm reduces the number of basic multiplication operations required, offering improved performance over the traditional grade-school multiplication method, especially for very large numbers.
+This Java program implements the **Karatsuba algorithm**, an efficient method for multiplying large integers. The algorithm reduces the number of basic multiplication operations required, offering improved performance over the traditional grade-school multiplication method, especially for very large numbers.
 
 ## Features
 
